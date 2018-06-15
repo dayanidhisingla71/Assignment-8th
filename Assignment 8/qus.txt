@@ -1,0 +1,16 @@
+Write a Java program to reverse a String.
+
+
+Write a Java program to generate all substrings of the string ?xyz?.
+
+  
+Write a Java program to remove all vowels from the String.
+
+
+WAP of java to print a,ab,abc pattern
+
+
+WAP of java to check the Occurence of string into another string
+
+
+WAP of java to count the Number of Words in Sentence
